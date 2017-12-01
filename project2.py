@@ -1,6 +1,6 @@
 def f(str,int):
     print(str*int)
 
-a=("Project2")
+a=("Project")
 b=5
 f(a,b)
