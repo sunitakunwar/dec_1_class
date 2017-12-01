@@ -1,6 +1,6 @@
-def f(str,int):
-    print(str*int)
+def f(y,int):
+    print(y*int)
 
-a=("Project")
+a=("hello")
 b=5
 f(a,b)
